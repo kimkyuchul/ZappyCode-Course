@@ -8,9 +8,9 @@ URLSession &amp; TableView &amp; Kingfisher
 
 ### URLSession 사용 순서
 
-Configuration을 결정
-Session 생성
-Request에 사용할 url 설정
+Configuration을 결정 < /br>
+Session 생성 < /br>
+Request에 사용할 url 설정 < /br>
 Task 결정 및 작성
  
 
